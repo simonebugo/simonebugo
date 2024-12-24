@@ -1,4 +1,5 @@
-## Hi there 👋
+- Master's degree student in Artificial Intelligence Engineering at University of Modena and Reggio Emilia (Unimore)
+- Graduated in Computer Engineering at University of Modena and Reggio Emilia (Unimore)
 
 <!--
 **simonebugo/simonebugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
