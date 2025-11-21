@@ -1,17 +1,25 @@
-- Master's degree student in Artificial Intelligence Engineering at University of Modena and Reggio Emilia (Unimore)
-- Graduated in Computer Engineering at University of Modena and Reggio Emilia (Unimore)
+# 👋 Hi there, I'm **Simone**
+I'm a software engineer currently pursuing a Master's degree in Artificial Intelligence at UniMoRe
+## 🚀 About Me
+- 📍 Based in Modena, Italy. 
+- 🎓 Bachelor's degree in Computer Engineering @UniMoRe
+- 📚 MSc student in Artificial Intelligence Engineering @UniMoRe
 
-<!--
-**simonebugo/simonebugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- 🔹 **[DFR3Net - Deep Fake Recognition Net]([link](https://github.com/dcfrenci/Computer_vision_project_deepfake_recognition))** — High-accuracy deepfake detection network
+- 🔹 **[SMASHBOX]([link](https://github.com/fmarzo/SMASHBOX))** — Secure Monitoring And Smart Hub for Biometric Optical boXes
+
+
+---
+
+## 📫 Contact Me
+- 📧 Email: simone.bugo@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/
+
+---
+
+
+
