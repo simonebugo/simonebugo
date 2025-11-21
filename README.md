@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm **Simone**
-I'm a software engineer currently pursuing a Master's degree in Artificial Intelligence at UniMoRe
+I'm a software engineer currently pursuing a Master's degree in Artificial Intelligence at @UniMoRe
 ## 🚀 About Me
 - 📍 Based in Modena, Italy. 
 - 🎓 Bachelor degree in Computer Engineering @UniMoRe
