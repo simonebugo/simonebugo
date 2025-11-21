@@ -2,7 +2,7 @@
 I'm a software engineer currently pursuing a Master's degree in Artificial Intelligence at UniMoRe
 ## 🚀 About Me
 - 📍 Based in Modena, Italy. 
-- 🎓 Bachelor's degree in Computer Engineering @UniMoRe
+- 🎓 Bachelor degree in Computer Engineering @UniMoRe
 - 📚 MSc student in Artificial Intelligence Engineering @UniMoRe
 
 ---
