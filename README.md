@@ -17,7 +17,7 @@ I'm a software engineer currently pursuing a Master's degree in Artificial Intel
 
 ## 📫 Contact Me
 - 📧 Email: simone.bugo@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/
+- 💼 LinkedIn: [https://www.linkedin.com/in/](https://www.linkedin.com/in/simone-bugo-a46712374)
 
 ---
 
